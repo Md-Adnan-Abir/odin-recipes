@@ -1,1 +1,2 @@
 # odin-recipes
+This will be a webpage containing several food recipes. I just learn some basic of HTML, so thought let,s make a small webpage by using only those HTML commands that I just learned today.
